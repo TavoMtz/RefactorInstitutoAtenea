@@ -1,0 +1,18 @@
+# Credenciales y archivos sensibles
+credenciales.php
+
+# Backups y temporales del servidor
+*-bk.php
+*-bk/
+*.zip
+*.tar.gz
+*.log
+
+# Multimedia pesada (opcional pero muy recomendado en repositorios Git)
+video/*.mp4
+
+# Archivos del sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
